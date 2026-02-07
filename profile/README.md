@@ -27,12 +27,19 @@ All software here is dual-licensed. While we support Open Source, we strictly en
 
 ---
 
-*Maintained by Volkan Şah Küçükbudak | Latest Audit: 07.02.2026*
+*Maintained by Volkan Şah & BadTin| Latest Audit: 07.02.2026*
 
 ---
 
-### Mein Tipp für die Optik:
-
-Wenn du das in dein GitHub-Profil einbaust, kannst du ein **Badge** verwenden, um die Lizenz direkt sichtbar zu machen. Du könntest zum Beispiel diesen Markdown-Code für ein Shield nutzen:
-
 `![License: ESOL v1.1](https://img.shields.io/badge/License-ESOL%20v1.1-red.svg)`
+
+## Compatibility Matrix
+
+| Base License | Compatible? | Conflict Resolution |
+| --- | --- | --- |
+| **MIT / BSD / ISC** | ✅ Yes | ESOL adds usage restrictions. |
+| **Apache 2.0** | ✅ Yes | ESOL complements the patent/usage clauses. |
+| **GPL v2 / v3** | ✅ Yes* | ESOL acts as a "Usage Covenant" (Nutzungsvorbehalt). |
+| **Commercial** | ✅ Yes | ESOL provides a baseline for ethical conduct. |
+
+**Note: Under strict OSI definitions, usage restrictions may move a project from "Free Software" to "Source Available / Ethical Software".*
