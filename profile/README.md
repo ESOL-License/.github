@@ -27,12 +27,9 @@ All software here is dual-licensed. While we support Open Source, we strictly en
 
 ---
 
-*Maintained by Volkan Şah & BadTin| Latest Audit: 07.02.2026*
+*Maintained by Volkan Şah & BadTin | Latest Audit: 07.02.2026*
 
 ---
-
-`![License: ESOL v1.1](https://img.shields.io/badge/License-ESOL%20v1.1-red.svg)`
-
 ## Compatibility Matrix
 
 | Base License | Compatible? | Conflict Resolution |
