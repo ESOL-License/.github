@@ -18,25 +18,8 @@ All software here is dual-licensed. While we support Open Source, we strictly en
 > **"Our code is open, but our ethics are non-negotiable."**
 
 ---
+*Maintained by Volkan Şah & BadTin | Latest Audit: 08.02.2026*
 
-###  Quick Links
 
-* [📄 Read the Full ESOL v1.1 Text]
-* [🛠 How to integrate ESOL in your project]
-* [⚠️ Report Misuse / Violations]
-
----
-
-*Maintained by Volkan Şah & BadTin | Latest Audit: 07.02.2026*
-
----
-## Compatibility Matrix
-
-| Base License | Compatible? | Conflict Resolution |
-| --- | --- | --- |
-| **MIT / BSD / ISC** | ✅ Yes | ESOL adds usage restrictions. |
-| **Apache 2.0** | ✅ Yes | ESOL complements the patent/usage clauses. |
-| **GPL v2 / v3** | ✅ Yes* | ESOL acts as a "Usage Covenant" (Nutzungsvorbehalt). |
-| **Commercial** | ✅ Yes | ESOL provides a baseline for ethical conduct. |
 
 **Note: Under strict OSI definitions, usage restrictions may move a project from "Free Software" to "Source Available / Ethical Software".*
